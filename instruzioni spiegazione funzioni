@@ -1,1 +1,8 @@
+-porte logiche
+Il primo set di funzioni è dedicato alle porte logiche semplici che utilizzano il calcolo matematico per ottenere il risultato.
+Tramite le porte semplici ho ricavato porte a più ingressi utilizzando funzioni composte da funzioni.
 
+-ALU
+Il secondo set di funzioni è dedicato all'ALU 74181 che è stata costruita seguendo lo schema a porte logiche fornito dall'insegante ricreandolo interamente
+
+-Registri 
