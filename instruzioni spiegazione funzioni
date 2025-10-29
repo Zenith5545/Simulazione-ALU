@@ -3,13 +3,14 @@ Il primo set di funzioni è dedicato alle porte logiche semplici che utilizzano 
 Tramite le porte semplici ho ricavato porte a più ingressi utilizzando funzioni composte da funzioni.
 
 -ALU
-Il secondo set di funzioni è dedicato all'ALU 74181 che è stata costruita seguendo lo schema a porte logiche fornito dall'insegante ricreandolo interamente
+la seconda funzione dedicata all'ALU 74181 che è stata costruita seguendo lo schema a porte logiche fornito dall'insegante ricreandolo interamente
 
--Registri (74198)
+-Registri 
+La terza funzione è dedicata ai Registri 74198 ed è una ripetizione di 8 singoli flip flop creati tramite logica algoritmica (non seguendo lo schema a porte logiche), possiedono l'opzione di clear, rewrite e save.
 
--Convertitore da binario a decimale
+-Convertitore da binario a decimale e viceversa
+La quarta e quinta funzione sono dedicate alle conversioni da binario a decimale e viceversa e sfruttano variabili stringa per salvare valori 
 
--Convertitore da decimale a binario
 
 -Funzione di "singolarizazione" dei valori decimali
 
