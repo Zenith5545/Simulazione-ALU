@@ -5,4 +5,11 @@ Tramite le porte semplici ho ricavato porte a più ingressi utilizzando funzioni
 -ALU
 Il secondo set di funzioni è dedicato all'ALU 74181 che è stata costruita seguendo lo schema a porte logiche fornito dall'insegante ricreandolo interamente
 
--Registri 
+-Registri (74198)
+
+-Convertitore da binario a decimale
+
+-Convertitore da decimale a binario
+
+-Funzione di "singolarizazione" dei valori decimali
+
